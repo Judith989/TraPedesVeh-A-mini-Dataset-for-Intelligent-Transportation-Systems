@@ -4,7 +4,7 @@ This repository contains the TraPedesVeh mini dataset which is a collection of a
 
 ## Dataset Description
 
-![alt text](https://github.com/Judith989/TraPedesVeh-A-mini-Dataset-for-Intelligent-Transportation-Systems/blob/main/dataset-stat.jpg)?raw=true)
+![alt text](https://github.com/Judith989/TraPedesVeh-A-mini-Dataset-for-Intelligent-Transportation-Systems/blob/main/dataset-stat.jpg)
 
 
 
