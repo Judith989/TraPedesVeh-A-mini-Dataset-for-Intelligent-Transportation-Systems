@@ -9,7 +9,7 @@ message: >-
   metadata from this file.
 type: dataset
 authors:
-  - given-names: judith Nkechinyere
+  - given-names: 'Judith Nkechinyere'
     family-names: Njoku
     email: judithnjoku24@gmail.com
     affiliation: Kumoh National Institute of Technology
@@ -17,11 +17,12 @@ authors:
   - given-names: 'Goodness Oluchi '
     family-names: Anyanwu
     email: anyanwu.goodnes@kumoh.ac.kr
-  - given-names: 'kechi Saviour '
+    orcid: 'https://orcid.org/0000-0002-0304-4143'
+  - given-names: 'Ikechi Saviour '
     family-names: Igboanusi
     email: ikechisaviour@kumoh.ac.kr
     affiliation: Kumoh National Institute of technology
-  - given-names: Cosmas Ifeanyi
+  - given-names: 'Cosmas Ifeanyi'
     family-names: Nwakanma
     email: cosmas.ifeanyi@kumoh.ac.kr
     affiliation: Kumoh National Institute of technology
