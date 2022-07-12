@@ -13,8 +13,23 @@ This repository contains the TraPedesVeh mini dataset which is a collection of a
 
 ## Bibtex
 
-
+@inproceedings{,
+author = {},
+title = {},
+year = {},
+isbn = {},
+publisher = {},
+address = {},
+url = {},
+doi = {},
+booktitle = {},
+pages = {},
+numpages = {},
+keywords = {},
+location = {},
+series = {}
+}
 
 
 ## License 
-Creative Commons Attribution 1.0 International [Link](https://github.com/Judith989/TraPedesVeh-A-mini-Dataset-for-Intelligent-Transportation-Systems/blob/main/LICENSE)
+Creative Commons Zero v1.0 Universal [Link](https://github.com/Judith989/TraPedesVeh-A-mini-Dataset-for-Intelligent-Transportation-Systems/blob/main/LICENSE)
