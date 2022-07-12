@@ -1,0 +1,16 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  TraPedesVeh-A-mini-Dataset-for-Intelligent-Transportation-Systems
+message: >-
+  If you use this dataset, please cite it using the
+  metadata from this file.
+type: dataset
+authors:
+  - given-names: judith Nkechinyere
+    family-names: Njoku
+    email: judithnjoku24@gmail.com
+    affiliation: Kumoh National Institute of Technology
+    orcid: 'https://orcid.org/0000-0002-2294-9204'
