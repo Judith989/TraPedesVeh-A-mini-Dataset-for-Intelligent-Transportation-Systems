@@ -24,7 +24,7 @@ The Tfrecord files were results from an augmented version of the original datase
 
 
 ## Authors
-
+Judith Nkechinyere Njoku∗, Goodness Oluchi Anyanwu†, Ikechi Saviour Igboanusi†, Cosmas Ifeanyi Nwakanma∗, and Dong-Seong Kim†
 
 ## Citation
 If you use this dataset in your research, please cite this repository.
