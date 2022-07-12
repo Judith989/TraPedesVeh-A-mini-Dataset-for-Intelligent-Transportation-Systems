@@ -1,0 +1,26 @@
+<annotation>
+	<folder>dataset</folder>
+	<filename>10.jpg</filename>
+	<path>C:\Users\Judith989\Downloads\dataset\10.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>720</width>
+		<height>1280</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>vehicle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>179</xmin>
+			<ymin>96</ymin>
+			<xmax>656</xmax>
+			<ymax>893</ymax>
+		</bndbox>
+	</object>
+</annotation>

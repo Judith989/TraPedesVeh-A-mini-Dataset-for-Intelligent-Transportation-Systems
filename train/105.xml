@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>dataset</folder>
+	<filename>105.jpg</filename>
+	<path>C:\Users\Judith989\Downloads\dataset\105.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>720</width>
+		<height>1280</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pedestrian</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>230</xmin>
+			<ymin>275</ymin>
+			<xmax>483</xmax>
+			<ymax>1247</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,38 @@
+<annotation verified="yes">
+	<folder>train</folder>
+	<filename>114.jpg</filename>
+	<path>C:\Users\Judith989\Downloads\train\114.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>720</width>
+		<height>1280</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Traffic sign</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>308</xmin>
+			<ymin>237</ymin>
+			<xmax>616</xmax>
+			<ymax>821</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Traffic sign</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>163</xmin>
+			<ymin>212</ymin>
+			<xmax>324</xmax>
+			<ymax>660</ymax>
+		</bndbox>
+	</object>
+</annotation>

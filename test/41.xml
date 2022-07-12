@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>41.jpg</filename>
+	<path>C:\Users\Judith989\Documents\Judith ICT Research Center\Resources\Learning\03_DDITS\Smart PArking\dataset\test\41.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>720</width>
+		<height>1280</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Traffic sign</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>24</xmin>
+			<ymin>260</ymin>
+			<xmax>228</xmax>
+			<ymax>603</ymax>
+		</bndbox>
+	</object>
+</annotation>

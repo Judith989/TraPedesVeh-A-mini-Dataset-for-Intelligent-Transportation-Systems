@@ -1,0 +1,38 @@
+<annotation>
+	<folder>test</folder>
+	<filename>16.jpg</filename>
+	<path>C:\Users\Judith989\Documents\Judith ICT Research Center\Resources\Learning\03_DDITS\Smart PArking\dataset\test\16.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>720</width>
+		<height>1280</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>scooter</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>202</xmin>
+			<ymin>431</ymin>
+			<xmax>428</xmax>
+			<ymax>1061</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>cyclist</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>407</xmin>
+			<ymin>195</ymin>
+			<xmax>570</xmax>
+			<ymax>1061</ymax>
+		</bndbox>
+	</object>
+</annotation>
