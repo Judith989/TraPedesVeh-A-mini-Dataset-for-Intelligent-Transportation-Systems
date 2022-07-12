@@ -1,6 +1,8 @@
 # TraPedesVeh
 This repository contains the TraPedesVeh mini dataset which is a collection of annotated images containing vehicles, traffic signs and pedestrians. It was first introduced in the paper titled "State-of-the-Art Object Detectors for Vehicle, Pedestrian, and Traffic Sign Detection for Smart Parking Systems", which was presented at the International Conference on Information and Communication Technology Convergence (ICTC2022), Jeju, South Korea. 
 
+(https://github.com/Judith989/TraPedesVeh-A-mini-Dataset-for-Intelligent-Transportation-Systems/blob/main/test/1.png)(https://github.com/Judith989/TraPedesVeh-A-mini-Dataset-for-Intelligent-Transportation-Systems/blob/main/test/11.png)
+
 
 ## Dataset Description
 The dataset was built by collecting random images from the internet, using the keywords: traffic signs, vehicles and pedestrians. A total of 230 different images were collected. The annotation of images was done manually using a graphical anotation tool named [Labelimg](https://github.com/tzutalin/labelImg). As illustrated in the table below, the annotation process produced a total of 938 annotated objects, for 7 different classes of objects. The [Labelimg](https://github.com/tzutalin/labelImg) program generates an XML file for each of the images annotated.
@@ -23,7 +25,8 @@ The Tfrecord files were results from an augmented version of the original datase
 ## Authors
 
 
-## Bibtex
+## Citation
+If you use this dataset in your research, please cite this repository.
 
 
 
