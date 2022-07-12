@@ -7,7 +7,11 @@ The dataset was built by collecting random images from the internet, using the k
 
 ![alt text](https://github.com/Judith989/TraPedesVeh-A-mini-Dataset-for-Intelligent-Transportation-Systems/blob/main/dataset-stat.jpg)
 
+The [train](https://github.com/Judith989/TraPedesVeh-A-mini-Dataset-for-Intelligent-Transportation-Systems/tree/main/train) folder contains 146 annotated images and XML files, and the [test](https://github.com/Judith989/TraPedesVeh-A-mini-Dataset-for-Intelligent-Transportation-Systems/tree/main/test) folder contains 46 annotated images and XML files.
 
+Three other files are included in this repository: [test.tfrecord](https://github.com/Judith989/TraPedesVeh-A-mini-Dataset-for-Intelligent-Transportation-Systems/blob/main/test.tfrecord), [train.tfrecord](https://github.com/Judith989/TraPedesVeh-A-mini-Dataset-for-Intelligent-Transportation-Systems/blob/main/train.tfrecord) and [label_map.pbtxt](https://github.com/Judith989/TraPedesVeh-A-mini-Dataset-for-Intelligent-Transportation-Systems/blob/main/label_map.pbtxt). These will be very useful when training on object detection models that support tfrecord formats. 
+
+The Tfrecord files were results from an augmented version of the original dataset. As a result, the training tfrecord file contains 501 images, while the test file contains 61 images. 
 
 ## Abstract
 
