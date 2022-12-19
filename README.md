@@ -27,8 +27,8 @@ The Tfrecord files were results from an augmented version of the original datase
 Judith Nkechinyere Njoku∗, Goodness Oluchi Anyanwu†, Ikechi Saviour Igboanusi†, Cosmas Ifeanyi Nwakanma∗, and Dong-Seong Kim†
 
 ## Citation
-If you use this dataset in your research, please cite this repository.
-
+If you use this dataset in your research, please cite this repository. or cite this paper:
+J. N. Njoku, G. O. Anyanwu, I. S. Igboanusi, C. I. Nwakanma, J. -M. Lee and D. -S. Kim, "State-of-the-Art Object Detectors for Vehicle, Pedestrian, and Traffic Sign Detection for Smart Parking Systems," 2022 13th International Conference on Information and Communication Technology Convergence (ICTC), 2022, pp. 1585-1590, doi: 10.1109/ICTC55196.2022.9952856.
 
 
 
